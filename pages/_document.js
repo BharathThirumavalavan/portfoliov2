@@ -17,6 +17,7 @@ class MyDocument extends Document {
             crossOrigin='true'
           />
           <link
+            rel='preconnect'
             href='https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap'
             rel='styleSheet'
           />
